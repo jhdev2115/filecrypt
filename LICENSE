@@ -1,0 +1,31 @@
+FileCrypt Proprietary License
+Copyright (c) 2025 jumphook
+
+This software and all associated files ("FileCrypt") are the exclusive property of the author.  
+FileCrypt is provided for personal, educational, and non-commercial use only.
+
+You ARE permitted to:
+
+- View, study, and learn from the source code.
+- Use FileCrypt for your own personal or internal purposes.
+- Experiment with the code privately to understand how encryption, decryption, threading, or other concepts work.
+
+You are NOT permitted to:
+
+- Copy, redistribute, publish, or share this software or any modified version of it, in any form, without explicit written permission from the author.
+- Sell, license, rent, or commercially exploit this software or any derivative works.
+- Claim authorship, misrepresent ownership, or present this software as your own work.
+- Incorporate this software into any publicly distributed or commercial product.
+
+Modifications:
+You may modify the software for personal use only.  
+Modified versions are subject to the same restrictions as the original and may not be shared, published, or distributed without explicit permission.
+
+Liability:
+This software is provided "as is," without warranties of any kind.  
+The author is not liable for any damages arising from use, misuse, or inability to use the software.
+
+Permission:
+Any redistribution, publication, or commercial usage requires explicit written permission from the author.
+
+By using FileCrypt, you agree to the terms above.
